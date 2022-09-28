@@ -8,7 +8,7 @@ author: joshfree
 ms.devlang: java
 description: Reference for Azure Functions SDK for Java
 ---
-# Azure Functions SDK for Java - latest
+# Azure Functions SDK for Java - preview
 
-## Client packages - latest
+## Client packages - preview
 [!INCLUDE [client-packages](functions-client-index.md)]
