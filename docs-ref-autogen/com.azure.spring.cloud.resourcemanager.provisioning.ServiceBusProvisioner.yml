@@ -61,4 +61,4 @@ type: "interface"
 desc: "An interface to provision Service Bus queue resources."
 metadata: {}
 package: "com.azure.spring.cloud.resourcemanager.provisioning"
-artifact: com.azure.spring:spring-cloud-azure-resourcemanager:4.3.0
+artifact: com.azure.spring:spring-cloud-azure-resourcemanager:4.4.0

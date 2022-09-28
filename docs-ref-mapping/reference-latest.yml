@@ -1142,6 +1142,7 @@
       - name: Spring
         children:
         - com.azure.spring.cloud.resourcemanager.provisioning
+        - com.azure.spring.cloud.resourcemanager.provisioning
         landingPageType: Service
   - name: Spring Cloud
     href: ~/docs-ref-services/latest/spring-cloud.md
@@ -1152,10 +1153,6 @@
       - name: Resource Management - Spring Cloud
         href: ~/docs-ref-services/latest/resourcemanager-appplatform-readme.md
         children:
-        - com.azure.resourcemanager.appplatform
-        - com.azure.resourcemanager.appplatform.fluent
-        - com.azure.resourcemanager.appplatform.fluent.models
-        - com.azure.resourcemanager.appplatform.models
         - com.azure.resourcemanager.appplatform
         - com.azure.resourcemanager.appplatform.fluent
         - com.azure.resourcemanager.appplatform.fluent.models

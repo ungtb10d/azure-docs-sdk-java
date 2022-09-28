@@ -9,4 +9,4 @@ interfaces:
 desc: "Spring Cloud Azure resource provisioner abstractions."
 metadata: {}
 package: "com.azure.spring.cloud.resourcemanager.provisioning"
-artifact: com.azure.spring:spring-cloud-azure-resourcemanager:4.3.0
+artifact: com.azure.spring:spring-cloud-azure-resourcemanager:4.4.0
