@@ -1,12 +1,12 @@
 ---
-title: Azure Resources SDK for Java
 description: Reference for Azure Resources SDK for Java
-author: joshfree
-ms.service: resources
-ms.data: 09/28/2022
-ms.author: jfree
-ms.devlang: java
 ms.topic: reference
+ms.devlang: java
+ms.data: 09/29/2022
+ms.service: resources
+title: Azure Resources SDK for Java
+author: joshfree
+ms.author: jfree
 ms.date: 07/08/2022
 ---
 # Azure Resource Manager libraries for Java
