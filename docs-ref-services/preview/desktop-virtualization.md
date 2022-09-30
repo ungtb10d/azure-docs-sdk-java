@@ -1,12 +1,12 @@
 ---
-ms.devlang: java
-title: Azure Desktop Virtualization SDK for Java
-description: Reference for Azure Desktop Virtualization SDK for Java
-author: joshfree
-ms.service: desktopvirtualization
+ms.data: 09/30/2022
 ms.author: jfree
-ms.data: 09/29/2022
+author: joshfree
+description: Reference for Azure Desktop Virtualization SDK for Java
 ms.topic: reference
+title: Azure Desktop Virtualization SDK for Java
+ms.devlang: java
+ms.service: desktopvirtualization
 ---
 # Azure Desktop Virtualization SDK for Java - preview
 

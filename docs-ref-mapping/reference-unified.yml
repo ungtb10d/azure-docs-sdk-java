@@ -2473,14 +2473,7 @@
   - name: Spring
     href: ~/docs-ref-services/{moniker}/spring.md
     landingPageType: Service
-    items:
-    - name: Management
-      items:
-      - name: Spring
-        href: ~/docs-ref-services/{moniker}/spring-cloud-resourcemanager-readme.md
-        children:
-        - com.azure.spring.cloud.resourcemanager.provisioning
-        - com.azure.spring.cloud.resourcemanager.provisioning
+    items: []
   - name: Spring Cloud
     href: ~/docs-ref-services/{moniker}/spring-cloud.md
     landingPageType: Service
